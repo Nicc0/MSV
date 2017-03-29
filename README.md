@@ -1,6 +1,6 @@
 ## Minecraft Skin Changer 3D
 
-[![License][license-badge]][license-badge-url]
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/Nicc0/MSV/blob/master/LICENSE)
 
 ### Usage ###
 
