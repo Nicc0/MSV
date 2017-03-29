@@ -1,10 +1,13 @@
 ## Minecraft Skin Changer 3D
 
 
+### Usage ###
 
-### How to use?
+```html
+<script src="js/msv.min.js"></script>
+```
 
-```markdown
+```javascript
 var skinViewer = new MSV("https://minotar.net/skin/");
     skinViewer.setContainer(document.body);
     skinViewer.setSkin("Nicc0");
