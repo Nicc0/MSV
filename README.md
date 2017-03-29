@@ -1,5 +1,6 @@
 ## Minecraft Skin Changer 3D
 
+[![License][license-badge]][license-badge-url]
 
 ### Usage ###
 
